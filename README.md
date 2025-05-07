@@ -31,7 +31,7 @@ Po spuštění se data uloží do zadaného CSV souboru.
 2. Argument vysledky_nachod.csv
 
 # Průběh skriptu
-![image](https://github.com/user-attachments/assets/80e0c3f6-aea5-4721-9900-4f11ca8291c6)
+![image](https://github.com/user-attachments/assets/a6347669-dcf0-415d-a41e-33dc3b048ffd)
 ![image](https://github.com/user-attachments/assets/58b64c7e-9b0c-4ff0-b49d-e12b14875233)
 
 
