@@ -9,7 +9,8 @@ Skript stahuje výsledky voleb v roce 2017.
 Knihovny, které jsou použity v kódu jsou uložené v souboru requirements.txt. 
 Pro instalaci použít virtuální prostředí a spustit
 
-![image](https://github.com/user-attachments/assets/d15350c6-4161-430e-b69b-c082ef11b10e)
+![image](https://github.com/user-attachments/assets/a76b2758-a5d9-4bc5-9a6c-f154a5acbb01)
+
 
 pip install -r requirements.txt
 
