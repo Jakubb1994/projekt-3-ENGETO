@@ -20,7 +20,7 @@ Skript main.py se spouští z příkazového řádku a očekává dva argumenty:
 2. Jméno výstupního .csv souboru
 
 # Ukázka spuštění
-![image](https://github.com/user-attachments/assets/ab5453d1-81c0-407a-af6b-6dd75fe624ed)
+![image](https://github.com/user-attachments/assets/1b4b7ae5-8245-4d03-9c8d-c52b7cc19813)
 
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=8&xnumnuts=5203" vysledky_nachod.csv
 
