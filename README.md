@@ -37,7 +37,8 @@ Po spuštění se data uloží do zadaného CSV souboru.
 
 
 # Ukázka výstupu (CSV)
-![image](https://github.com/user-attachments/assets/c34286b0-ab31-4d7f-ade7-4acce588b10b)
+![image](https://github.com/user-attachments/assets/2e6842db-7135-4029-93e3-36ccb9b14864)
+
 
 
 
