@@ -32,7 +32,8 @@ Po spuštění se data uloží do zadaného CSV souboru.
 
 # Průběh skriptu
 ![image](https://github.com/user-attachments/assets/80e0c3f6-aea5-4721-9900-4f11ca8291c6)
-![image](https://github.com/user-attachments/assets/898ea72b-fe71-465c-85a5-7c6b810c5b21)
+![image](https://github.com/user-attachments/assets/58b64c7e-9b0c-4ff0-b49d-e12b14875233)
+
 
 # Ukázka výstupu (CSV)
 ![image](https://github.com/user-attachments/assets/c34286b0-ab31-4d7f-ade7-4acce588b10b)
